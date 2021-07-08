@@ -20,7 +20,7 @@ import java.io.PrintWriter;
 import java.util.Random;
 
 @RestController
-@Api(value = "用户基本信息操作")
+@Api(value = "用户基本信息操作123")
 @RequestMapping("/User")
 public class UserController {
     @Autowired
